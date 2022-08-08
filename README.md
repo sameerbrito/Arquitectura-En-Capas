@@ -2,8 +2,7 @@ Proyecto Final Programacion II
 Arquitectura en capas & interfaz grafica
 
   Herramientas utilizadas:
-    C#
-    Microsoft SQL server
+    C# y Microsoft SQL server
     
 Imagenes
 
